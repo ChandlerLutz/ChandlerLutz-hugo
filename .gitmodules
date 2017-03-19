@@ -1,0 +1,6 @@
+[submodule "ChandlerLutz.github.io"]
+	path = ChandlerLutz.github.io
+	url = git@https://github.com/ChandlerLutz/ChandlerLutz.github.io.git
+[submodule "public"]
+	path = public
+	url = git@https://github.com/ChandlerLutz/ChandlerLutz.github.io.git
