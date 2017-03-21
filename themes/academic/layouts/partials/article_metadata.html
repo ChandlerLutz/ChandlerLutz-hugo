@@ -3,7 +3,9 @@
 <div class="article-metadata">
 
   <span class="article-date">
-    <time datetime="{{ $.Date }}" itemprop="datePublished">
+    <!-- <time datetime="{{ $.Date }}" itemprop="datePublished"> -->
+    <!-- Use the date that the user listed for the article  -->
+    <time datetime="{{ $.Params.date }}" itemprop="datePublished">
       {{ $.Date.Format $.Site.Params.date_format }}
     </time>
   </span>

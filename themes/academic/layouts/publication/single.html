@@ -10,7 +10,7 @@
   {{end}}
 
   <div class="container pub-title">
-    <h1 itemprop="name">{{ .Title }}</h1>
+    <h2 itemprop="name">{{ .Title }}</h2>
     <span class="pub-authors" itemprop="author">
       {{ with .Params.authors }}
       {{ delimit . ", " | markdownify }}
@@ -99,9 +99,19 @@
 
 </div>
 
+
 <div class="container">
-  {{ partial "section_pager.html" . }}
+<nav>
+  <ul class="pager">
+    <li><a href="{{ .Site.BaseURL }}#publications_selected">Back to Publication List</a></li>
+  </ul>
+</nav>
 </div>
+
+
+<!-- <div class="container"> -->
+<!--   {{ partial "section_pager.html" . }} -->
+<!-- </div> -->
 
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}
