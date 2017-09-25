@@ -1,6 +1,6 @@
 +++
 url_doi = ""
-date = "2017-03-01"
+date = "2017-06-01"
 publication_types = ["7"]
 math = false
 abstract = "Using household and business data, we examine local labor markets in the U.S. and Canada. Wages and inequality increase less with city population in Canada, while skillsorting patterns contrast. French and Spanish language enclaves exhibit idiosyncrasies reflecting their associations. U.S. workers, particularly low-skilled, appear slightly more responsive to local labor demand shifts, but are slowed by housing-cost reactions. Manufacturing jobs in Canadian cities were affected by rising Chinese imports, much like in the U.S.. Synthetic matching of Canadian to U.S. cities by industry, population, and trends explains some differences in responses and that Canadian cities respond more to larger shifts."
