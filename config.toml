@@ -105,7 +105,8 @@ defaultContentLanguageInSubdir = false
     'Book chapter',  # 6
     'Housing Economics', # 7
     'Financial Economics', # 8
-    'Monetary Policy' # 9
+    'Monetary Policy', # 9
+    'Labor Economics' #10
   ]
 
   # Social/Academic Networking

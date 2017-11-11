@@ -1,5 +1,5 @@
 +++
-date = "2016-10-01"
+date = "2017-10-01"
 title = "Do Financial Constraints Cool a Housing Boom? Theory and Evidence from a Macroprudential Policy on Million Dollar Homes"
 authors = ["Lu Han", "Chandler Lutz", "Ben Sand", "Derek Stacey"]
 image_preview = ""
